@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning golang
 - 📫 How to Reach Me :
  . Instagram: @therealwolf03
- . x: @Mouad__eddib
+ . x: @Eddib__Mouad
  . email: mouadeddib7@gmail.com
 -👋 Welcome to My GitHub :
 Hi! I’m a front-end developer passionate about crafting interactive and user-friendly web applications using HTML, CSS, and JavaScript. I love turning design ideas into seamless digital experiences and continuously exploring new tools to sharpen my skills. On this GitHub, you’ll find projects that showcase my creativity, problem-solving, and dedication to clean, efficient code. Let’s build something amazing together!
